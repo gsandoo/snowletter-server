@@ -1,4 +1,4 @@
-# firstsnow-team04-server
+# snowletter-server
 눈꽃톤 4팀 첫눈처럼 너에게 가겠다 server Repo입니다 !
 
 # GitHub Role
